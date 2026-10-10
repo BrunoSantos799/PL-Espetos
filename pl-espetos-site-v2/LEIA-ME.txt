@@ -1,0 +1,12 @@
+PL Espetos - site
+
+Arquivos (todos na raiz, sem pastas):
+- index.html  -> o site completo (fotos, videos e codigo dentro dele)
+- robots.txt  -> permite o Google indexar o site
+
+Como publicar:
+- Netlify Drop: arraste este ZIP em app.netlify.com/drop
+- Vercel: em Settings > Build & Development, deixe Framework Preset = Other e Output Directory vazio
+
+Para atualizar numero de WhatsApp, precos e produtos: procure por CONFIG ou pelos precos no index.html.
+Pendencias: endereco, horario e CNPJ estao marcados como [INSERIR DADO REAL].
